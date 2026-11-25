@@ -1,5 +1,7 @@
 # WHATIF AI — Decision Simulation Prototype
 
+GitHub repository: [what_if_ai___](https://github.com/naren0511/what_if_ai___)
+
 **Explore the Consequences. Compare the Possibilities. Make Better-Informed Decisions.**
 
 WHATIF AI is a local-first, multi-domain decision simulation prototype. It models operational components and typed dependencies, applies hypothetical changes, computes deterministic ripple effects, compares alternatives, and explains the assumptions behind its results.
